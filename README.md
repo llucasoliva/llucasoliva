@@ -1,5 +1,5 @@
 # 💫 About Me:
-A lawyer following his passion: Tech.
+A lawyer who starts to code.
 Studying Full Stack Dev at Tera.
 Fun fact: Really apreciate brainstormings.
 
